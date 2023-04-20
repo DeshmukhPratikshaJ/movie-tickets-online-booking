@@ -1,0 +1,21 @@
+1.customer Registration
+2.Lgin
+3.show movie list
+4.select movie
+5.search threatre list in a particular location
+6.select theatre
+7.show titetable of a particular theatre
+8.select show
+9.show available seats
+10.show total bill amount
+11.show payment mode
+12.select payment mode
+13.redirect to bank transfer webpage
+14.enter payment details
+15.send OTP to customer mobile number
+16.enter OTP
+17.validate OTP
+18.make payment
+19.generate payment receipt
+20.generate ticket
+21.send payment receipt and ticket to user via SMS on registered mobile number
