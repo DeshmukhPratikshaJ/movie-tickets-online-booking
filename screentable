@@ -1,0 +1,12 @@
+create table screen(
+screenid char(1),
+theatreid int,
+showid varchar(10),
+primary key pk(screenid,thratreid)
+);
+
+insert into screen values('A',1,'morning');
+insert into screen values('B',2,'afternoon');
+insert into screen values('C',5,'night');
+insert into screen values('D',3,'evening');
+insert into screen values('A',4,'morning');
